@@ -1,0 +1,7 @@
+# Render Deployment Configuration
+# Service Type: Web Service
+# Build Command: npm install && npm run build
+# Start Command: npx serve dist -l $PORT
+# Environment Variables:
+#   VITE_SUPABASE_URL
+#   VITE_SUPABASE_ANON_KEY
